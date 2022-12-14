@@ -1,1 +1,1 @@
-# typing_tool
+Typing tool for speed practice and WPM tracking.
