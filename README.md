@@ -1,1 +1,1 @@
-Typing tool for speed practice and WPM tracking. test2
+Typing tool for speed practice and WPM tracking. test3
